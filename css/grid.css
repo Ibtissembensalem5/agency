@@ -1,0 +1,11 @@
+.parent{
+
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+    padding: 250px;
+    height: 90%;
+    width: 80%;
+    text-align: center;
+
+}
+.child{}
